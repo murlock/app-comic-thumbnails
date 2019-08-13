@@ -1,0 +1,15 @@
+{
+    "name": "Cbz Thumbnail",
+    "description": "Generate CBZ thumbnail",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Michael Bonfils"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
